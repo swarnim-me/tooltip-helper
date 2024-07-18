@@ -1,4 +1,4 @@
-const initTooltip = (theme = "dark") => {
+exports.initTooltip = (theme = "dark") => {
 	const hoverItems = Array.from(document.querySelectorAll(".hoverable"));
 
 	function applyTooltipStyles(tooltip) {
