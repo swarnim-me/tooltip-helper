@@ -3,12 +3,12 @@ exports.initTooltip = (theme = "dark") => {
 
 	function applyTooltipStyles(tooltip) {
 		if (theme === "light") {
-			tooltip.style.background = "black";
-			tooltip.style.color = "white";
+			tooltip.style.background = "white";
+			tooltip.style.color = "blac";
 			tooltip.style.border = "1px solid black";
 		} else {
-			tooltip.style.background = "white";
-			tooltip.style.color = "black";
+			tooltip.style.background = "black";
+			tooltip.style.color = "white";
 		}
 		tooltip.style.fontSize = "1rem";
 		tooltip.style.borderRadius = "8px";
