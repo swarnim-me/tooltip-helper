@@ -5,7 +5,7 @@ exports.initTooltip = (theme = "dark") => {
 		if (theme === "light") {
 			tooltip.style.background = "white";
 			tooltip.style.color = "blac";
-			tooltip.style.border = "1px solid black";
+			tooltip.style.border = "1px solid rgba(0, 0, 0, .4)";
 		} else {
 			tooltip.style.background = "black";
 			tooltip.style.color = "white";

@@ -1,6 +1,6 @@
 {
 	"name": "tooltip-helper",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "Creates tooltip for the desired html element",
 	"main": "script.js",
 	"scripts": {
