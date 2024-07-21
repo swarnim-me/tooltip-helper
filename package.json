@@ -1,6 +1,6 @@
 {
 	"name": "tooltip-helper",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A JavaScript package for adding a tooltip to any HTML element.",
 	"main": "script.js",
 	"scripts": {
